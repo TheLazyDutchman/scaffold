@@ -1,0 +1,11 @@
+[package]
+name = "scaffold"
+version = "0.1.0"
+edition = "2024"
+description = "Scaffold is a functional language base that is easy to extend"
+readme = "README.md"
+keywords = [ "language", "tooling", "functional" ]
+categories = [ "language", "tooling" ]
+license = "MIT"
+
+[dependencies]
